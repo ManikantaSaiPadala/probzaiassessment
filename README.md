@@ -34,8 +34,8 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/my-chart-app.git
-    cd my-chart-app
+    git clone https://github.com/ManikantaSaiPadala/charting-app.git
+    cd charting-app
     ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ Ensure you have the following installed on your machine:
 
 ## Project Structure
 
-    my-chart-app/
+    charting-app/
     ├── public/
     │   ├── index.html
     │   ├── data.json
