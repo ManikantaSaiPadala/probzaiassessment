@@ -1,0 +1,19 @@
+.btn-name{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-name1{
+    text-align: center;
+}
+
+.btn-each{
+    color: rgb(144, 98, 39);
+    background-color: azure;
+    border-color: rgb(32, 72, 4);
+    border-radius: 8px;
+    padding: 10px;
+    border-width: 2px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
